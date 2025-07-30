@@ -1,0 +1,8 @@
+Project Description
+
+-The purpose of this project is to create a development environment via a shell script auotomation.
+-Tools like GIt will be used for version control and to intergrate remotely with github using a forked webflow.
+
+Personal Details
+Name: Ofentse Sibande
+Email: ofentsem@tpcstudents.co.za
